@@ -1,0 +1,1124 @@
+/*
+ * Copyright (C) 2014 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not
+ * use this file except in compliance with the License. You may obtain a copy of
+ * the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+ * License for the specific language governing permissions and limitations under
+ * the License.
+ */
+package com.android.framework.multidexlegacytestservices.manymethods;
+
+public class Big038 {
+
+    public int get0() {
+        return 0;
+    }
+
+    public int get1() {
+        return 1;
+    }
+
+    public int get2() {
+        return 2;
+    }
+
+    public int get3() {
+        return 3;
+    }
+
+    public int get4() {
+        return 4;
+    }
+
+    public int get5() {
+        return 5;
+    }
+
+    public int get6() {
+        return 6;
+    }
+
+    public int get7() {
+        return 7;
+    }
+
+    public int get8() {
+        return 8;
+    }
+
+    public int get9() {
+        return 9;
+    }
+
+    public int get10() {
+        return 10;
+    }
+
+    public int get11() {
+        return 11;
+    }
+
+    public int get12() {
+        return 12;
+    }
+
+    public int get13() {
+        return 13;
+    }
+
+    public int get14() {
+        return 14;
+    }
+
+    public int get15() {
+        return 15;
+    }
+
+    public int get16() {
+        return 16;
+    }
+
+    public int get17() {
+        return 17;
+    }
+
+    public int get18() {
+        return 18;
+    }
+
+    public int get19() {
+        return 19;
+    }
+
+    public int get20() {
+        return 20;
+    }
+
+    public int get21() {
+        return 21;
+    }
+
+    public int get22() {
+        return 22;
+    }
+
+    public int get23() {
+        return 23;
+    }
+
+    public int get24() {
+        return 24;
+    }
+
+    public int get25() {
+        return 25;
+    }
+
+    public int get26() {
+        return 26;
+    }
+
+    public int get27() {
+        return 27;
+    }
+
+    public int get28() {
+        return 28;
+    }
+
+    public int get29() {
+        return 29;
+    }
+
+    public int get30() {
+        return 30;
+    }
+
+    public int get31() {
+        return 31;
+    }
+
+    public int get32() {
+        return 32;
+    }
+
+    public int get33() {
+        return 33;
+    }
+
+    public int get34() {
+        return 34;
+    }
+
+    public int get35() {
+        return 35;
+    }
+
+    public int get36() {
+        return 36;
+    }
+
+    public int get37() {
+        return 37;
+    }
+
+    public int get38() {
+        return 38;
+    }
+
+    public int get39() {
+        return 39;
+    }
+
+    public int get40() {
+        return 40;
+    }
+
+    public int get41() {
+        return 41;
+    }
+
+    public int get42() {
+        return 42;
+    }
+
+    public int get43() {
+        return 43;
+    }
+
+    public int get44() {
+        return 44;
+    }
+
+    public int get45() {
+        return 45;
+    }
+
+    public int get46() {
+        return 46;
+    }
+
+    public int get47() {
+        return 47;
+    }
+
+    public int get48() {
+        return 48;
+    }
+
+    public int get49() {
+        return 49;
+    }
+
+    public int get50() {
+        return 50;
+    }
+
+    public int get51() {
+        return 51;
+    }
+
+    public int get52() {
+        return 52;
+    }
+
+    public int get53() {
+        return 53;
+    }
+
+    public int get54() {
+        return 54;
+    }
+
+    public int get55() {
+        return 55;
+    }
+
+    public int get56() {
+        return 56;
+    }
+
+    public int get57() {
+        return 57;
+    }
+
+    public int get58() {
+        return 58;
+    }
+
+    public int get59() {
+        return 59;
+    }
+
+    public int get60() {
+        return 60;
+    }
+
+    public int get61() {
+        return 61;
+    }
+
+    public int get62() {
+        return 62;
+    }
+
+    public int get63() {
+        return 63;
+    }
+
+    public int get64() {
+        return 64;
+    }
+
+    public int get65() {
+        return 65;
+    }
+
+    public int get66() {
+        return 66;
+    }
+
+    public int get67() {
+        return 67;
+    }
+
+    public int get68() {
+        return 68;
+    }
+
+    public int get69() {
+        return 69;
+    }
+
+    public int get70() {
+        return 70;
+    }
+
+    public int get71() {
+        return 71;
+    }
+
+    public int get72() {
+        return 72;
+    }
+
+    public int get73() {
+        return 73;
+    }
+
+    public int get74() {
+        return 74;
+    }
+
+    public int get75() {
+        return 75;
+    }
+
+    public int get76() {
+        return 76;
+    }
+
+    public int get77() {
+        return 77;
+    }
+
+    public int get78() {
+        return 78;
+    }
+
+    public int get79() {
+        return 79;
+    }
+
+    public int get80() {
+        return 80;
+    }
+
+    public int get81() {
+        return 81;
+    }
+
+    public int get82() {
+        return 82;
+    }
+
+    public int get83() {
+        return 83;
+    }
+
+    public int get84() {
+        return 84;
+    }
+
+    public int get85() {
+        return 85;
+    }
+
+    public int get86() {
+        return 86;
+    }
+
+    public int get87() {
+        return 87;
+    }
+
+    public int get88() {
+        return 88;
+    }
+
+    public int get89() {
+        return 89;
+    }
+
+    public int get90() {
+        return 90;
+    }
+
+    public int get91() {
+        return 91;
+    }
+
+    public int get92() {
+        return 92;
+    }
+
+    public int get93() {
+        return 93;
+    }
+
+    public int get94() {
+        return 94;
+    }
+
+    public int get95() {
+        return 95;
+    }
+
+    public int get96() {
+        return 96;
+    }
+
+    public int get97() {
+        return 97;
+    }
+
+    public int get98() {
+        return 98;
+    }
+
+    public int get99() {
+        return 99;
+    }
+
+    public int get100() {
+        return 100;
+    }
+
+    public int get101() {
+        return 101;
+    }
+
+    public int get102() {
+        return 102;
+    }
+
+    public int get103() {
+        return 103;
+    }
+
+    public int get104() {
+        return 104;
+    }
+
+    public int get105() {
+        return 105;
+    }
+
+    public int get106() {
+        return 106;
+    }
+
+    public int get107() {
+        return 107;
+    }
+
+    public int get108() {
+        return 108;
+    }
+
+    public int get109() {
+        return 109;
+    }
+
+    public int get110() {
+        return 110;
+    }
+
+    public int get111() {
+        return 111;
+    }
+
+    public int get112() {
+        return 112;
+    }
+
+    public int get113() {
+        return 113;
+    }
+
+    public int get114() {
+        return 114;
+    }
+
+    public int get115() {
+        return 115;
+    }
+
+    public int get116() {
+        return 116;
+    }
+
+    public int get117() {
+        return 117;
+    }
+
+    public int get118() {
+        return 118;
+    }
+
+    public int get119() {
+        return 119;
+    }
+
+    public int get120() {
+        return 120;
+    }
+
+    public int get121() {
+        return 121;
+    }
+
+    public int get122() {
+        return 122;
+    }
+
+    public int get123() {
+        return 123;
+    }
+
+    public int get124() {
+        return 124;
+    }
+
+    public int get125() {
+        return 125;
+    }
+
+    public int get126() {
+        return 126;
+    }
+
+    public int get127() {
+        return 127;
+    }
+
+    public int get128() {
+        return 128;
+    }
+
+    public int get129() {
+        return 129;
+    }
+
+    public int get130() {
+        return 130;
+    }
+
+    public int get131() {
+        return 131;
+    }
+
+    public int get132() {
+        return 132;
+    }
+
+    public int get133() {
+        return 133;
+    }
+
+    public int get134() {
+        return 134;
+    }
+
+    public int get135() {
+        return 135;
+    }
+
+    public int get136() {
+        return 136;
+    }
+
+    public int get137() {
+        return 137;
+    }
+
+    public int get138() {
+        return 138;
+    }
+
+    public int get139() {
+        return 139;
+    }
+
+    public int get140() {
+        return 140;
+    }
+
+    public int get141() {
+        return 141;
+    }
+
+    public int get142() {
+        return 142;
+    }
+
+    public int get143() {
+        return 143;
+    }
+
+    public int get144() {
+        return 144;
+    }
+
+    public int get145() {
+        return 145;
+    }
+
+    public int get146() {
+        return 146;
+    }
+
+    public int get147() {
+        return 147;
+    }
+
+    public int get148() {
+        return 148;
+    }
+
+    public int get149() {
+        return 149;
+    }
+
+    public int get150() {
+        return 150;
+    }
+
+    public int get151() {
+        return 151;
+    }
+
+    public int get152() {
+        return 152;
+    }
+
+    public int get153() {
+        return 153;
+    }
+
+    public int get154() {
+        return 154;
+    }
+
+    public int get155() {
+        return 155;
+    }
+
+    public int get156() {
+        return 156;
+    }
+
+    public int get157() {
+        return 157;
+    }
+
+    public int get158() {
+        return 158;
+    }
+
+    public int get159() {
+        return 159;
+    }
+
+    public int get160() {
+        return 160;
+    }
+
+    public int get161() {
+        return 161;
+    }
+
+    public int get162() {
+        return 162;
+    }
+
+    public int get163() {
+        return 163;
+    }
+
+    public int get164() {
+        return 164;
+    }
+
+    public int get165() {
+        return 165;
+    }
+
+    public int get166() {
+        return 166;
+    }
+
+    public int get167() {
+        return 167;
+    }
+
+    public int get168() {
+        return 168;
+    }
+
+    public int get169() {
+        return 169;
+    }
+
+    public int get170() {
+        return 170;
+    }
+
+    public int get171() {
+        return 171;
+    }
+
+    public int get172() {
+        return 172;
+    }
+
+    public int get173() {
+        return 173;
+    }
+
+    public int get174() {
+        return 174;
+    }
+
+    public int get175() {
+        return 175;
+    }
+
+    public int get176() {
+        return 176;
+    }
+
+    public int get177() {
+        return 177;
+    }
+
+    public int get178() {
+        return 178;
+    }
+
+    public int get179() {
+        return 179;
+    }
+
+    public int get180() {
+        return 180;
+    }
+
+    public int get181() {
+        return 181;
+    }
+
+    public int get182() {
+        return 182;
+    }
+
+    public int get183() {
+        return 183;
+    }
+
+    public int get184() {
+        return 184;
+    }
+
+    public int get185() {
+        return 185;
+    }
+
+    public int get186() {
+        return 186;
+    }
+
+    public int get187() {
+        return 187;
+    }
+
+    public int get188() {
+        return 188;
+    }
+
+    public int get189() {
+        return 189;
+    }
+
+    public int get190() {
+        return 190;
+    }
+
+    public int get191() {
+        return 191;
+    }
+
+    public int get192() {
+        return 192;
+    }
+
+    public int get193() {
+        return 193;
+    }
+
+    public int get194() {
+        return 194;
+    }
+
+    public int get195() {
+        return 195;
+    }
+
+    public int get196() {
+        return 196;
+    }
+
+    public int get197() {
+        return 197;
+    }
+
+    public int get198() {
+        return 198;
+    }
+
+    public int get199() {
+        return 199;
+    }
+
+    public int get200() {
+        return 200;
+    }
+
+    public int get201() {
+        return 201;
+    }
+
+    public int get202() {
+        return 202;
+    }
+
+    public int get203() {
+        return 203;
+    }
+
+    public int get204() {
+        return 204;
+    }
+
+    public int get205() {
+        return 205;
+    }
+
+    public int get206() {
+        return 206;
+    }
+
+    public int get207() {
+        return 207;
+    }
+
+    public int get208() {
+        return 208;
+    }
+
+    public int get209() {
+        return 209;
+    }
+
+    public int get210() {
+        return 210;
+    }
+
+    public int get211() {
+        return 211;
+    }
+
+    public int get212() {
+        return 212;
+    }
+
+    public int get213() {
+        return 213;
+    }
+
+    public int get214() {
+        return 214;
+    }
+
+    public int get215() {
+        return 215;
+    }
+
+    public int get216() {
+        return 216;
+    }
+
+    public int get217() {
+        return 217;
+    }
+
+    public int get218() {
+        return 218;
+    }
+
+    public int get219() {
+        return 219;
+    }
+
+    public int get220() {
+        return 220;
+    }
+
+    public int get221() {
+        return 221;
+    }
+
+    public int get222() {
+        return 222;
+    }
+
+    public int get223() {
+        return 223;
+    }
+
+    public int get224() {
+        return 224;
+    }
+
+    public int get225() {
+        return 225;
+    }
+
+    public int get226() {
+        return 226;
+    }
+
+    public int get227() {
+        return 227;
+    }
+
+    public int get228() {
+        return 228;
+    }
+
+    public int get229() {
+        return 229;
+    }
+
+    public int get230() {
+        return 230;
+    }
+
+    public int get231() {
+        return 231;
+    }
+
+    public int get232() {
+        return 232;
+    }
+
+    public int get233() {
+        return 233;
+    }
+
+    public int get234() {
+        return 234;
+    }
+
+    public int get235() {
+        return 235;
+    }
+
+    public int get236() {
+        return 236;
+    }
+
+    public int get237() {
+        return 237;
+    }
+
+    public int get238() {
+        return 238;
+    }
+
+    public int get239() {
+        return 239;
+    }
+
+    public int get240() {
+        return 240;
+    }
+
+    public int get241() {
+        return 241;
+    }
+
+    public int get242() {
+        return 242;
+    }
+
+    public int get243() {
+        return 243;
+    }
+
+    public int get244() {
+        return 244;
+    }
+
+    public int get245() {
+        return 245;
+    }
+
+    public int get246() {
+        return 246;
+    }
+
+    public int get247() {
+        return 247;
+    }
+
+    public int get248() {
+        return 248;
+    }
+
+    public int get249() {
+        return 249;
+    }
+
+    public int get250() {
+        return 250;
+    }
+
+    public int get251() {
+        return 251;
+    }
+
+    public int get252() {
+        return 252;
+    }
+
+    public int get253() {
+        return 253;
+    }
+
+    public int get254() {
+        return 254;
+    }
+
+    public int get255() {
+        return 255;
+    }
+
+    public int get256() {
+        return 256;
+    }
+
+    public int get257() {
+        return 257;
+    }
+
+    public int get258() {
+        return 258;
+    }
+
+    public int get259() {
+        return 259;
+    }
+
+    public int get260() {
+        return 260;
+    }
+
+    public int get261() {
+        return 261;
+    }
+
+    public int get262() {
+        return 262;
+    }
+
+    public int get263() {
+        return 263;
+    }
+
+    public int get264() {
+        return 264;
+    }
+
+    public int get265() {
+        return 265;
+    }
+
+    public int get266() {
+        return 266;
+    }
+
+    public int get267() {
+        return 267;
+    }
+
+    public int get268() {
+        return 268;
+    }
+
+    public int get269() {
+        return 269;
+    }
+
+    public int get270() {
+        return 270;
+    }
+
+    public int get271() {
+        return 271;
+    }
+
+    public int get272() {
+        return 272;
+    }
+
+    public int get273() {
+        return 273;
+    }
+
+    public int get274() {
+        return 274;
+    }
+
+    public int get275() {
+        return 275;
+    }
+
+    public int 
